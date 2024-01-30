@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20230524/pngtree-female-programmer-in-front-of-computer-screens-image_2672427.jpg)](https://my-portfolio-liart-gamma-20.vercel.app/)
+[![MasterHead](https://www.shutterstock.com/image-illustration/woman-programmer-work-silhouette-girl-600nw-2205630025.jpg)](https://my-portfolio-liart-gamma-20.vercel.app/)
 <h1 align="center">Hi 👋, I'm Sanjana Rajkumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" align="right" alt="coding" width="400">
